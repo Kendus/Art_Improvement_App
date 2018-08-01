@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "343577168141",
+    "firebase_url": "https://artimprovementapp.firebaseio.com",
+    "project_id": "artimprovementapp",
+    "storage_bucket": "artimprovementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343577168141:android:4b348b20c231f995",
+        "android_client_info": {
+          "package_name": "com.example.kendus.art_improvement_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343577168141-gaihgauc5sqv1f7mint2sa5675qh754a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kendus.art_improvement_app",
+            "certificate_hash": "36786352b9f18c2e4f3345c681dc8cb942ee9928"
+          }
+        },
+        {
+          "client_id": "343577168141-ekfqenvjs1irj02ipj7671o4fdfiunql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWQacS3y8_J8uQ-uoCJVjFmgQtayPGlg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343577168141-ekfqenvjs1irj02ipj7671o4fdfiunql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
